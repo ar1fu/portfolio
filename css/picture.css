@@ -1,0 +1,23 @@
+.picture{
+    height:100px;
+    padding:12px 0px 12px 0px;
+    margin-right:50px;
+    margin-left:50px;
+}
+
+.project-picture{
+    height:400px;
+    border-radius:10px;
+}
+
+.project-youtube{
+    height:460px;
+    width:680px;
+    object-fit: contain;
+}
+
+.icon-picture{
+    display:flex;
+    height:40px;
+    margin-right:10px;
+}
